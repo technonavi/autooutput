@@ -1,0 +1,6 @@
+dist内にあるファイルのscraipingnittetu.exeをクリックしてください
+日鉄住金のIR情報のスクレイピング取得を行うプログラムです。
+https://www.nhs.co.jp/company/pressrelease/のニュース内容の取得を行う事が出来ます。
+scraping.csvの方にニュース内容と日時が出力されます。
+scrapingnittetu.pyの方にソースコードが記述されています。
+
